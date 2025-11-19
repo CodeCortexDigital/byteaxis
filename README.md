@@ -30,7 +30,7 @@ Transform your business processes with our cutting-edge automation solutions:
 - Ethical web scraping and data extraction
 - Workflow automation and integration
 - Data processing and analytics
-- E-commerce automation solutions
+- E-commerce automation solution
 
 ### 💻 Custom Software Development
 Tailored solutions to meet your unique business needs:

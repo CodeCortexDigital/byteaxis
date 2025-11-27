@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="http://thebyteaxis.com">
-  <img src="byte axis-white & red.png" alt="ByteAxis Logo" width="200"/>
+  <img src="byte axis-white &  red.png" alt="ByteAxis Logo" width="200"/>
 </a>
 
   [![UK Based](https://img.shields.io/badge/UK%20Based-Manchester-blue)](https://thebyteaxis.com)
